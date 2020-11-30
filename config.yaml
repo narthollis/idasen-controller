@@ -5,3 +5,6 @@ height_tolerance: 2.0
 scan_timeout: 5
 connection_timeout: 10
 adapter_name: hci0
+
+shared_key: 
+web_port: 34121
